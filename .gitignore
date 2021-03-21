@@ -1,0 +1,30 @@
+lb-venv
+*.pyc
+__pycache__
+literalbrasil/db.sqlite3
+literalbrasil/static
+literalbrasil/media
+literalbrasil/.DS_Store
+literalbrasil/.vscode
+
+# dependencies
+literalbrasil-fe/node_modules
+literalbrasil-fe/.pnp
+literalbrasil-fe/.pnp.js
+
+# testing
+literalbrasil-fe/coverage
+
+# production
+literalbrasil-fe/build
+
+# misc
+literalbrasil-fe/.DS_Store
+literalbrasil-fe/.env.local
+literalbrasil-fe/.env.development.local
+literalbrasil-fe/.env.test.local
+literalbrasil-fe/.env.production.local
+
+literalbrasil-fe/npm-debug.log*
+literalbrasil-fe/yarn-debug.log*
+literalbrasil-fe/yarn-error.log*
