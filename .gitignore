@@ -8,23 +8,23 @@ literalbrasil/.DS_Store
 literalbrasil/.vscode
 
 # dependencies
-literalbrasil-fe/node_modules
-literalbrasil-fe/.pnp
-literalbrasil-fe/.pnp.js
+literalbrasil/literalbrasil-fe/node_modules
+literalbrasil/literalbrasil-fe/.pnp
+literalbrasil/literalbrasil-fe/.pnp.js
 
 # testing
-literalbrasil-fe/coverage
+literalbrasil/literalbrasil-fe/coverage
 
 # production
-literalbrasil-fe/build
+literalbrasil/literalbrasil-fe/build
 
 # misc
-literalbrasil-fe/.DS_Store
-literalbrasil-fe/.env.local
-literalbrasil-fe/.env.development.local
-literalbrasil-fe/.env.test.local
-literalbrasil-fe/.env.production.local
+literalbrasil/literalbrasil-fe/.DS_Store
+literalbrasil/literalbrasil-fe/.env.local
+literalbrasil/literalbrasil-fe/.env.development.local
+literalbrasil/literalbrasil-fe/.env.test.local
+literalbrasil/literalbrasil-fe/.env.production.local
 
-literalbrasil-fe/npm-debug.log*
-literalbrasil-fe/yarn-debug.log*
-literalbrasil-fe/yarn-error.log*
+literalbrasil/literalbrasil-fe/npm-debug.log*
+literalbrasil/literalbrasil-fe/yarn-debug.log*
+literalbrasil/literalbrasil-fe/yarn-error.log*
